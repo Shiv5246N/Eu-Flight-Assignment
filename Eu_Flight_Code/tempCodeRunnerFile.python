@@ -1,0 +1,2 @@
+print(response.status_code)  # 200 aana chahiye
+print(response.json())  # API ka response dekho
